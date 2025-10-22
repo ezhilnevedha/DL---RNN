@@ -38,9 +38,10 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:EZHIL NEVEDHA K
 
-### Register Number:
+### Register Number: 212223230055
+
 
 ```python
 # Define RNN Model
@@ -61,14 +62,17 @@ class RNNModel(nn.Module):
 
 ## Training Loss Over Epochs Plot
 
-Include your plot here
+<img width="770" height="573" alt="image" src="https://github.com/user-attachments/assets/538b6ca5-f69f-48b0-94bc-02a4c504ed41" />
+
 
 ## True Stock Price, Predicted Stock Price vs time
 
-Include your plot here
+<img width="882" height="650" alt="image" src="https://github.com/user-attachments/assets/e23198eb-fde0-4684-a1b0-5d60a6d748ba" />
+
 
 ### Predictions
-Include the predictions on test data
+<img width="882" height="650" alt="image" src="https://github.com/user-attachments/assets/a57df6e6-f63d-4fd5-b34d-8afad7dc3f2f" />
+
 
 ## RESULT
-Include your result here
+Thus, RNN has been executed to predict stock prices successfully.
